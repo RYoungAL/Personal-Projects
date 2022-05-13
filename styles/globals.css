@@ -1,0 +1,19 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-image: url("https://i.pinimg.com/originals/0a/83/10/0a8310ad08336d4e14964b3321e1791c.jpg");
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+}
+
+a {
+  color: inherit; 
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
